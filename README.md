@@ -1,4 +1,4 @@
-Role Name
+Role Name [![Build Status](https://travis-ci.com/nshvyryaev/ansible-role-mongo.svg?branch=master)](https://travis-ci.com/nshvyryaev/ansible-role-mongo)
 =========
 
 A brief description of the role goes here.
