@@ -1,0 +1,8 @@
+ansible>=2.9.7
+molecule==2.22
+testinfra>=1.10
+apache-libcloud
+
+# Need to explicitly specify sh version because of error:
+#   'env': value u'.env.yml' of env key 'MOLECULE_ENV_FILE' must be a str
+sh==1.12.14
