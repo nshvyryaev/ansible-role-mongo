@@ -9,7 +9,7 @@ platforms:
   - name: instance
     zone: us-west1-b
     machine_type: f1-micro
-    image: debian-8
+    image: ubuntu-1604-xenial-v20200429
 provisioner:
   name: ansible
   lint:
